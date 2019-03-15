@@ -11,6 +11,7 @@
 
     <modules>
         <module>common-local-cache</module>
+        <module>common-model</module>
     </modules>
 
     <properties>
