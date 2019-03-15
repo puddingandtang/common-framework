@@ -23,11 +23,15 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="common-local-cache" />
+        <module name="common-model" />
+        <module name="common-tool" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="common-framework" target="1.8.0_76-release" />
       <module name="common-local-cache" target="1.8.0_76-release" />
+      <module name="common-model" target="1.8.0_76-release" />
+      <module name="common-tool" target="1.8.0_76-release" />
     </bytecodeTargetLevel>
   </component>
 </project>

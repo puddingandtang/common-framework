@@ -12,6 +12,7 @@
     <modules>
         <module>common-local-cache</module>
         <module>common-model</module>
+        <module>common-tool</module>
     </modules>
 
     <properties>
@@ -19,6 +20,7 @@
     </properties>
 
     <dependencyManagement>
+
         <dependencies>
             <dependency>
                 <groupId>com.google.guava</groupId>
@@ -26,6 +28,7 @@
                 <version>${guava.version}</version>
             </dependency>
         </dependencies>
+
     </dependencyManagement>
 
     <build>
