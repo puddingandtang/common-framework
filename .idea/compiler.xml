@@ -27,11 +27,11 @@
         <module name="common-tool" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="common-framework" target="1.8.0_76-release" />
-      <module name="common-local-cache" target="1.8.0_76-release" />
-      <module name="common-model" target="1.8.0_76-release" />
-      <module name="common-tool" target="1.8.0_76-release" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="common-framework" target="1.8" />
+      <module name="common-local-cache" target="1.8" />
+      <module name="common-model" target="1.8" />
+      <module name="common-tool" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
