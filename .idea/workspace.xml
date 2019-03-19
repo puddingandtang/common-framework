@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="349135a8-d6af-4d4f-a50b-8692565057dd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common-local-cache/src/main/java/com/tang/cl/commom/local/cache/LocalCacheException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common-local-cache/src/main/java/com/tang/cl/commom/local/cache/NullValueException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common-model/src/main/java/com/tang/cl/commom/model/rpc/RpcResult.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common-model/src/test/java/com/tang/cl/commom/model/test/RpcResultTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common-tool/src/main/java/com/tang/cl/commom/tool/tool.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common-local-cache/src/main/java/com/tang/cl/commom/local/cache/学习/GuavaCache学习.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common-framework.iml" afterPath="$PROJECT_DIR$/common-framework.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common-local-cache/common-local-cache.iml" afterPath="$PROJECT_DIR$/common-local-cache/common-local-cache.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common-local-cache/src/main/java/com/tang/cl/commom/local/cache/AbstractLocalCache.java" afterPath="$PROJECT_DIR$/common-local-cache/src/main/java/com/tang/cl/commom/local/cache/AbstractLocalCache.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common-model/common-model.iml" afterPath="$PROJECT_DIR$/common-model/common-model.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common-model/pom.xml" afterPath="$PROJECT_DIR$/common-model/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common-tool/common-tool.iml" afterPath="$PROJECT_DIR$/common-tool/common-tool.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/common-local-cache/src/main/java/com/tang/cl/commom/local/cache/cache.txt" afterPath="$PROJECT_DIR$/common-model/src/main/java/com/tang/cl/commom/model/model.txt" />
     </list>
     <ignored path="common-framework.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,42 +28,7 @@
     <favorites_list name="common-framework" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AbstractLocalCache.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/common-local-cache/src/main/java/com/tang/cl/commom/local/cache/AbstractLocalCache.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1554">
-              <caret line="74" column="16" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1437#1438#0" expanded="true" />
-                <element signature="e#1474#1475#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LocalCacheException.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common-local-cache/src/main/java/com/tang/cl/commom/local/cache/LocalCacheException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NullValueException.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common-local-cache/src/main/java/com/tang/cl/commom/local/cache/NullValueException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -109,6 +59,7 @@
         <option value="$PROJECT_DIR$/common-local-cache/src/main/java/com/tang/cl/commom/local/cache/LocalCacheException.java" />
         <option value="$PROJECT_DIR$/common-local-cache/src/main/java/com/tang/cl/commom/local/cache/NullValueException.java" />
         <option value="$PROJECT_DIR$/common-local-cache/src/main/java/com/tang/cl/commom/local/cache/AbstractLocalCache.java" />
+        <option value="$PROJECT_DIR$/common-local-cache/src/main/java/com/tang/cl/commom/local/cache/学习/GuavaCache学习.txt" />
       </list>
     </option>
   </component>
@@ -127,7 +78,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1912" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -260,6 +211,40 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common-framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common-framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common-local-cache" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cache" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -275,7 +260,12 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.19854015" />
-    <property name="SearchEverywhereHistoryKey" value="ConcurrentHashMap&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;CacheBuilder&#9;FILE&#9;jar://D:/Develop/Local_Maven/com/google/guava/guava/21.0/guava-21.0-sources.jar!/com/google/common/cache/CacheBuilder.java&#10;LocalCache&#9;FILE&#9;jar://D:/Develop/Local_Maven/com/google/guava/guava/21.0/guava-21.0-sources.jar!/com/google/common/cache/LocalCache.java&#10;Graph&#9;PSI&#9;JAVA://com.google.common.graph.Graph&#10;CacheLoader&#9;PSI&#9;JAVA://com.google.common.cache.CacheLoader&#10;LoadingCache&#9;PSI&#9;JAVA://com.google.common.cache.LoadingCache" />
+    <property name="SearchEverywhereHistoryKey" value="LoadingCache&#9;FILE&#9;jar://D:/Develop/Local_Maven/com/google/guava/guava/21.0/guava-21.0-sources.jar!/com/google/common/cache/LoadingCache.java&#10;ConcurrentHashMap&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;CacheBuilder&#9;FILE&#9;jar://D:/Develop/Local_Maven/com/google/guava/guava/21.0/guava-21.0-sources.jar!/com/google/common/cache/CacheBuilder.java&#10;LocalCache&#9;FILE&#9;jar://D:/Develop/Local_Maven/com/google/guava/guava/21.0/guava-21.0-sources.jar!/com/google/common/cache/LocalCache.java&#10;Graph&#9;PSI&#9;JAVA://com.google.common.graph.Graph&#10;CacheLoader&#9;PSI&#9;JAVA://com.google.common.cache.CacheLoader" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PrivateCodeSpace\common-framework\common-local-cache\src\main\java\com\tang\cl\commom\local\cache\学习" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.RpcResultTest">
     <configuration default="false" name="RpcResultTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -736,7 +726,7 @@
       <updated>1552635492781</updated>
       <workItem from="1552635494251" duration="257000" />
       <workItem from="1552636297547" duration="5048000" />
-      <workItem from="1552914911670" duration="3120000" />
+      <workItem from="1552914911670" duration="4059000" />
     </task>
     <task id="LOCAL-00001" summary="model">
       <created>1552636419935</created>
@@ -752,15 +742,22 @@
       <option name="project" value="LOCAL" />
       <updated>1552639126144</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="tool">
+      <created>1552969888475</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1552969888475</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8425000" />
+    <option name="totallyTimeSpent" value="9364000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -861,6 +858,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -868,6 +866,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -876,14 +875,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/21.0/guava-21.0-sources.jar!/com/google/common/cache/AbstractLoadingCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="40" column="42" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -909,14 +900,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/21.0/guava-21.0-sources.jar!/com/google/common/cache/LoadingCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="38" column="47" selection-start-line="38" selection-start-column="47" selection-end-line="38" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/21.0/guava-21.0-sources.jar!/com/google/common/cache/AbstractCache.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
@@ -932,14 +915,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="233" column="13" selection-start-line="233" selection-start-column="13" selection-end-line="233" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/21.0/guava-21.0-sources.jar!/com/google/common/cache/LocalCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="2536" column="53" selection-start-line="2536" selection-start-column="53" selection-end-line="2536" selection-end-column="53" />
           <folding />
         </state>
       </provider>
@@ -967,6 +942,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1056,14 +1032,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/21.0/guava-21.0-sources.jar!/com/google/common/cache/CacheBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="626" column="42" selection-start-line="626" selection-start-column="42" selection-end-line="626" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/common-local-cache/src/main/java/com/tang/cl/commom/local/cache/LocalCacheException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -1080,15 +1048,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/common-local-cache/src/main/java/com/tang/cl/commom/local/cache/GuavaCache学习/txt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-local-cache/src/main/java/com/tang/cl/commom/local/cache/学习/GuavaCache学习.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/21.0/guava-21.0-sources.jar!/com/google/common/cache/AbstractLoadingCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/common-local-cache/src/main/java/com/tang/cl/commom/local/cache/AbstractLocalCache.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1554">
-          <caret line="74" column="16" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="16" />
+        <state relative-caret-position="284">
+          <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1437#1438#0" expanded="true" />
-            <element signature="e#1474#1475#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/21.0/guava-21.0-sources.jar!/com/google/common/cache/CacheBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="811" column="33" selection-start-line="811" selection-start-column="33" selection-end-line="811" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/21.0/guava-21.0-sources.jar!/com/google/common/cache/LocalCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="5137" column="22" selection-start-line="5137" selection-start-column="22" selection-end-line="5137" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/21.0/guava-21.0-sources.jar!/com/google/common/cache/LoadingCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1930">
+          <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
